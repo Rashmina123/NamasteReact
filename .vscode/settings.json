@@ -1,0 +1,10 @@
+{
+    "emmet.includeLanguages": {
+        "vue-html": "html",
+        "javascript ": "javasciptreact",
+        "razor": "html"
+    },
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.useInlineCompletions": true
+}

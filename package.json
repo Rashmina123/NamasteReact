@@ -1,0 +1,13 @@
+{
+  "name": "assignments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Assignment1.js",
+  "scripts": {
+    "start": "parcel Assignment1.js",
+    "build":"parcel build Assignment1.js",
+    "test":"jtest"
+  },
+  "author": "",
+  "license": "ISC"
+}
